@@ -11,3 +11,8 @@ Welcome to The Documentation For AtlasXomics Project's
 Projects
 ==================
 
+`AtlasBrowser`_.
+
+.. _AtlasBrowser: https://liya-wang-atlasdocumentation-home.readthedocs-hosted.com/projects/AtlasBrowser/en/latest/
+
+

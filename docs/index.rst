@@ -7,12 +7,11 @@ Welcome to The Documentation For AtlasXomics' Projects
    :caption: Contents:
 
 
-
 Projects
 ==================
 
-`AtlasBrowser`_.
+`AtlasXbrowser`_.
 
-.. _AtlasBrowser: https://docs.atlasxomics.com/projects/AtlasBrowser/en/latest/
+.. AtlasXbrowser: https://docs.atlasxomics.com/projects/AtlasXbrowser/en/latest/
 
 

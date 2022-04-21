@@ -12,6 +12,6 @@ Projects
 
 `AtlasXbrowser`_.
 
-.. AtlasXbrowser: https://docs.atlasxomics.com/projects/AtlasXbrowser/en/latest/
+.. _AtlasXbrowser: https://docs.atlasxomics.com/projects/AtlasXbrowser/en/latest/
 
 

@@ -1,5 +1,5 @@
 
-Welcome to The Documentation For AtlasXomics Project's
+Welcome to The Documentation For AtlasXomics' Projects
 =======================================================
 
 .. toctree::
@@ -7,12 +7,11 @@ Welcome to The Documentation For AtlasXomics Project's
    :caption: Contents:
 
 
-
 Projects
 ==================
 
-`AtlasBrowser`_.
+`AtlasXbrowser`_.
 
-.. _AtlasBrowser: https://liya-wang-atlasdocumentation-home.readthedocs-hosted.com/projects/AtlasBrowser/en/latest/
+.. _AtlasXbrowser: https://docs.atlasxomics.com/projects/AtlasXbrowser/en/latest/
 
 

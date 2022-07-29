@@ -1,5 +1,5 @@
 
-Welcome to The Documentation For AtlasXomics' Projects
+Welcome to The AtlasXomics Documentation Page
 =======================================================
 
 .. toctree::
@@ -10,8 +10,13 @@ Welcome to The Documentation For AtlasXomics' Projects
 Projects
 ==================
 
-`AtlasXbrowser`_.
+`AtlasXbrowser`_
 
 .. _AtlasXbrowser: https://docs.atlasxomics.com/projects/AtlasXbrowser/en/latest/
+
+`AtlasXplore`_
+
+.. _AtlasXplore: https://docs.atlasxomics.com/projects/AtlasXplore/en/latest/
+
 
 

@@ -3,7 +3,7 @@ Welcome to The AtlasXomics Documentation Page
 =======================================================
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3
    :caption: Contents:
 
 
@@ -13,6 +13,10 @@ Projects
 `AtlasXbrowser`_
 
 .. _AtlasXbrowser: https://docs.atlasxomics.com/projects/AtlasXbrowser/en/latest/
+
+`AtlasXpipeline`_
+
+.. _AtlasXpipeline: https://docs.atlasxomics.com/projects/AtlasXpipeline/en/latest/
 
 `AtlasXplore`_
 

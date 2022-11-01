@@ -28,7 +28,3 @@ Welcome to The AtlasXomics Documentation Page
    :caption: Epigenome Data Analysis
 
    Data Pipeline <https://docs.atlasxomics.com/projects/AtlasXpipeline/en/latest/#dependencies>
-
-
-
-

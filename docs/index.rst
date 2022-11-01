@@ -27,4 +27,4 @@ Welcome to The AtlasXomics Documentation Page
 .. toctree::
    :caption: Epigenome Data Analysis
 
-   Data Pipeline <https://docs.atlasxomics.com/projects/AtlasXpipeline/en/latest/#dependencies>
+    Introduction <https://docs.atlasxomics.com/projects/AtlasXpipeline/en/latest/Introduction.html>

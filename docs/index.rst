@@ -1,5 +1,5 @@
 
-Welcome to The AtlasXomics Documentation Page
+Welcome to The AtlasXomics Documentation Page!
 =======================================================
 
 .. toctree::
